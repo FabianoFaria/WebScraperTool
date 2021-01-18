@@ -13,4 +13,4 @@ with open('../OkamiWeb/index.html', 'r') as html_file:
 
     all_tags = soup.find_all('h5') 
 
-    print(all_tags)
+   # print(all_tags)
